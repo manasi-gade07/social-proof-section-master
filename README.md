@@ -19,7 +19,7 @@ This is a solution to the [Social Proof Section challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./images/Screenshot.png)
 
 ### Links
 
